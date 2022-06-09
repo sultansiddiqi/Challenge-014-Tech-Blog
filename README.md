@@ -9,6 +9,12 @@ Once they are  logged in, they now have access to a dashboard for posting blogs.
 
 The user then can logout and end their session or a timeout exists on the session as well. 
    
+![Screenshot of APP](./assets/images/Tech-blog-screen.png)
+
+[Heroku Link here!]()
+
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
